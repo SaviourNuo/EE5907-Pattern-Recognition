@@ -1,4 +1,4 @@
-# EE5907-Pattern-Recognition CA
+# EE5907 Pattern Recognition CA
 Codes and corresponding reports for EE5907 Pattern Recognition here!  
 
 These are just for your _REFERENCE_. It's recommended to complete the tasks independently.  
